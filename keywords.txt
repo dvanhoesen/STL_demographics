@@ -1,2 +1,0 @@
-Keywords
-Python, GeoPandas, GIS, Google Earth, St. Louis, Delmar Divide, demographics
